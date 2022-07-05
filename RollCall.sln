@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollCall", "RollCall\RollCall.csproj", "{42A8E9A4-6410-430C-B087-55CD5D4B0869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A8E9A4-6410-430C-B087-55CD5D4B0869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A8E9A4-6410-430C-B087-55CD5D4B0869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A8E9A4-6410-430C-B087-55CD5D4B0869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A8E9A4-6410-430C-B087-55CD5D4B0869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9DDF25-B925-4562-B005-C1D1BD77B322}
+	EndGlobalSection
+EndGlobal
